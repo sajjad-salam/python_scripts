@@ -1,2 +1,2 @@
 # python_scripts
-some scripts in scan netword and security
+some scripts in scan network and security
